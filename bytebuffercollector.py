@@ -12,7 +12,6 @@
 # 4. Set 'scheduleTimer' to a desired interval in seconds (300 by default). Save the changes.
 # 5. Launch the script from the command line (py bytebuffercollector.py)
 #
-# Created by Jaime Escalera (jescalera@sonicwall.com)
 # Built on 4-9-2019
 
 # Import these modules

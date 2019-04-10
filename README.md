@@ -1,7 +1,7 @@
 # bytebuffercollector
 Collects byte buffer statistics and connection statistics from a SonicWall firewall via SSH management
 
-# This tool automatically collects the '1500 byte buffer' and connection (peak/curr/max) statistics from a SonicWall firewall.
+This tool automatically collects the '1500 byte buffer' and connection (peak/curr/max) statistics from a SonicWall firewall.
 
 # Setup:
  1. Install the latest version of Python 3.
